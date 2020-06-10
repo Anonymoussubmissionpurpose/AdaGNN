@@ -17,7 +17,7 @@ Configure as you like:
 python main.py --layers 8 --mode s --dataset Flickr --hidden 128 --dropout 0.1
 ```
 Log example:
-```
+<escape>
 Loading BlogCatalog dataset...
 Dataset has 5196 nodes, 8189 features.
 AdaGNN(
@@ -358,4 +358,4 @@ Test set results: loss= 0.3265 accuracy= 0.8997
 
 Process finished with exit code 0
 
-```
+</escape>
