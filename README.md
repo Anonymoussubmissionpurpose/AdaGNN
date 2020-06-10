@@ -10,8 +10,9 @@ Use as
 ```
 python main.py
 ```
-Pre-trained models can be found in 
+Pre-trained models can be found in pre_trained_examples.
 
+Configure as you like:
 ```
-python main.py --data cora --model SGC --nlayer 40 --missing_rate 100 --norm_mode PN --norm_scale 10
+python main.py --layers 8 --mode s --dataset Flickr --hidden 128 --dropout 0.1
 ```
