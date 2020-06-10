@@ -17,7 +17,7 @@ Configure as you like:
 python main.py --layers 8 --mode s --dataset Flickr --hidden 128 --dropout 0.1
 ```
 Log example:
-Configure as you like:
+
 ```
 Loading BlogCatalog dataset...
 Dataset has 5196 nodes, 8189 features.
